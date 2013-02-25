@@ -1,0 +1,3 @@
+
+ Mean of Running times of SIZE 32  = 4625.406250
+ Mean of Running times of SIZE 32  = 4625.406250

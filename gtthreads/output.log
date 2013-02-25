@@ -1,0 +1,510 @@
+kthread(1) created !!
+kthread(2) created !!
+kthread(3) created !!
+kthread(4) created !!
+kthread(5) created !!
+kthread(6) created !!
+kthread(7) created !!
+
+ HOLA 
+
+*********** MEAN VALUES *************
+
+ Mean of Create-to-End of 32 matrices of size 32x32 = 919236.500000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 64x64 = 741367.375000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 128x128 = 150856.125000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 256x256 = 838571.375000 usec 
+
+ -------------------------------- 
+
+ Mean of CPU runtimes of 32 matrices of size 32x32 = 640.312500 usec 
+
+ Mean of CPU runtimes of 32 matrices of size 64x64 = 4092.000000 usec
+
+ Mean of CPU runtimes of 32 matrices of size 128x128 = 33932.937500 usec
+
+ Mean of CPU runtimes of 32 matrices of size 256x256 = 281587.562500 usec
+
+*********** STANDARD DEVIATION VALUES *************
+
+ SD of Create-to-End of 32 matrices of size 32x32 = 1046767.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 64x64 = 839475.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 128x128 = 186057.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 256x256 = 646740.000000 usec 
+
+ -------------------------------- 
+
+ SD of CPU runtimes of 32 matrices of size 32x32 = 246.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 64x64 = 682.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 128x128 = 4821.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 256x256 = 4593.000000 usec 
+
+******************** END OF THIS SET *********************
+kthread(1) created !!
+kthread(2) created !!
+kthread(3) created !!
+kthread(4) created !!
+kthread(5) created !!
+kthread(6) created !!
+kthread(7) created !!
+
+ HOLA 
+
+*********** MEAN VALUES *************
+
+ Mean of Create-to-End of 32 matrices of size 32x32 = 947676.250000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 64x64 = 749895.375000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 128x128 = 143714.656250 usec 
+
+ Mean of Create-to-End of 32 matrices of size 256x256 = 860447.187500 usec 
+
+ -------------------------------- 
+
+ Mean of CPU runtimes of 32 matrices of size 32x32 = 526.750000 usec 
+
+ Mean of CPU runtimes of 32 matrices of size 64x64 = 3975.187500 usec
+
+ Mean of CPU runtimes of 32 matrices of size 128x128 = 31113.875000 usec
+
+ Mean of CPU runtimes of 32 matrices of size 256x256 = 294586.781250 usec
+
+*********** STANDARD DEVIATION VALUES *************
+
+ SD of Create-to-End of 32 matrices of size 32x32 = 1079258.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 64x64 = 862529.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 128x128 = 186981.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 256x256 = 661646.000000 usec 
+
+ -------------------------------- 
+
+ SD of CPU runtimes of 32 matrices of size 32x32 = 33.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 64x64 = 47.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 128x128 = 812.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 256x256 = 3188.000000 usec 
+
+******************** END OF THIS SET *********************
+kthread(1) created !!
+kthread(2) created !!
+kthread(3) created !!
+kthread(4) created !!
+kthread(5) created !!
+kthread(6) created !!
+kthread(7) created !!
+
+ HOLA 
+
+*********** MEAN VALUES *************
+
+ Mean of Create-to-End of 32 matrices of size 32x32 = 924013.937500 usec 
+
+ Mean of Create-to-End of 32 matrices of size 64x64 = 737694.125000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 128x128 = 140819.375000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 256x256 = 839117.500000 usec 
+
+ -------------------------------- 
+
+ Mean of CPU runtimes of 32 matrices of size 32x32 = 529.312500 usec 
+
+ Mean of CPU runtimes of 32 matrices of size 64x64 = 3981.062500 usec
+
+ Mean of CPU runtimes of 32 matrices of size 128x128 = 31202.156250 usec
+
+ Mean of CPU runtimes of 32 matrices of size 256x256 = 286241.781250 usec
+
+*********** STANDARD DEVIATION VALUES *************
+
+ SD of Create-to-End of 32 matrices of size 32x32 = 1052303.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 64x64 = 841524.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 128x128 = 182383.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 256x256 = 646010.000000 usec 
+
+ -------------------------------- 
+
+ SD of CPU runtimes of 32 matrices of size 32x32 = 37.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 64x64 = 53.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 128x128 = 840.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 256x256 = 3767.000000 usec 
+
+******************** END OF THIS SET *********************
+kthread(1) created !!
+kthread(2) created !!
+kthread(3) created !!
+kthread(4) created !!
+kthread(5) created !!
+kthread(6) created !!
+kthread(7) created !!
+
+ HOLA 
+
+*********** MEAN VALUES *************
+
+ Mean of Create-to-End of 32 matrices of size 32x32 = 881039.625000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 64x64 = 708612.312500 usec 
+
+ Mean of Create-to-End of 32 matrices of size 128x128 = 137576.000000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 256x256 = 801901.125000 usec 
+
+ -------------------------------- 
+
+ Mean of CPU runtimes of 32 matrices of size 32x32 = 531.250000 usec 
+
+ Mean of CPU runtimes of 32 matrices of size 64x64 = 3981.031250 usec
+
+ Mean of CPU runtimes of 32 matrices of size 128x128 = 31200.312500 usec
+
+ Mean of CPU runtimes of 32 matrices of size 256x256 = 271073.625000 usec
+
+*********** STANDARD DEVIATION VALUES *************
+
+ SD of Create-to-End of 32 matrices of size 32x32 = 1003230.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 64x64 = 804030.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 128x128 = 176274.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 256x256 = 618179.000000 usec 
+
+ -------------------------------- 
+
+ SD of CPU runtimes of 32 matrices of size 32x32 = 38.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 64x64 = 40.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 128x128 = 842.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 256x256 = 4003.000000 usec 
+
+******************** END OF THIS SET *********************
+kthread(1) created !!
+kthread(2) created !!
+kthread(3) created !!
+kthread(4) created !!
+kthread(5) created !!
+kthread(6) created !!
+kthread(7) created !!
+
+ HOLA 
+
+*********** MEAN VALUES *************
+
+ Mean of Create-to-End of 32 matrices of size 32x32 = 955105.125000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 64x64 = 761038.000000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 128x128 = 143495.562500 usec 
+
+ Mean of Create-to-End of 32 matrices of size 256x256 = 866652.562500 usec 
+
+ -------------------------------- 
+
+ Mean of CPU runtimes of 32 matrices of size 32x32 = 530.531250 usec 
+
+ Mean of CPU runtimes of 32 matrices of size 64x64 = 3999.593750 usec
+
+ Mean of CPU runtimes of 32 matrices of size 128x128 = 31201.250000 usec
+
+ Mean of CPU runtimes of 32 matrices of size 256x256 = 297132.375000 usec
+
+*********** STANDARD DEVIATION VALUES *************
+
+ SD of Create-to-End of 32 matrices of size 32x32 = 1087741.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 64x64 = 868975.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 128x128 = 187908.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 256x256 = 666338.000000 usec 
+
+ -------------------------------- 
+
+ SD of CPU runtimes of 32 matrices of size 32x32 = 39.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 64x64 = 53.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 128x128 = 843.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 256x256 = 2883.000000 usec 
+
+******************** END OF THIS SET *********************
+kthread(1) created !!
+kthread(2) created !!
+kthread(3) created !!
+kthread(4) created !!
+kthread(5) created !!
+kthread(6) created !!
+kthread(7) created !!
+
+ HOLA 
+
+*********** MEAN VALUES *************
+
+ Mean of Create-to-End of 32 matrices of size 32x32 = 871431.812500 usec 
+
+ Mean of Create-to-End of 32 matrices of size 64x64 = 700725.125000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 128x128 = 136967.875000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 256x256 = 793368.187500 usec 
+
+ -------------------------------- 
+
+ Mean of CPU runtimes of 32 matrices of size 32x32 = 530.343750 usec 
+
+ Mean of CPU runtimes of 32 matrices of size 64x64 = 3973.437500 usec
+
+ Mean of CPU runtimes of 32 matrices of size 128x128 = 31197.937500 usec
+
+ Mean of CPU runtimes of 32 matrices of size 256x256 = 267862.625000 usec
+
+*********** STANDARD DEVIATION VALUES *************
+
+ SD of Create-to-End of 32 matrices of size 32x32 = 992425.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 64x64 = 794807.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 128x128 = 175009.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 256x256 = 611777.000000 usec 
+
+ -------------------------------- 
+
+ SD of CPU runtimes of 32 matrices of size 32x32 = 40.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 64x64 = 49.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 128x128 = 844.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 256x256 = 5071.000000 usec 
+
+******************** END OF THIS SET *********************
+kthread(1) created !!
+kthread(2) created !!
+kthread(3) created !!
+kthread(4) created !!
+kthread(5) created !!
+kthread(6) created !!
+kthread(7) created !!
+
+ HOLA 
+
+*********** MEAN VALUES *************
+
+ Mean of Create-to-End of 32 matrices of size 32x32 = 935087.500000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 64x64 = 748947.000000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 128x128 = 141615.093750 usec 
+
+ Mean of Create-to-End of 32 matrices of size 256x256 = 849015.250000 usec 
+
+ -------------------------------- 
+
+ Mean of CPU runtimes of 32 matrices of size 32x32 = 528.218750 usec 
+
+ Mean of CPU runtimes of 32 matrices of size 64x64 = 3978.437500 usec
+
+ Mean of CPU runtimes of 32 matrices of size 128x128 = 31210.218750 usec
+
+ Mean of CPU runtimes of 32 matrices of size 256x256 = 290165.093750 usec
+
+*********** STANDARD DEVIATION VALUES *************
+
+ SD of Create-to-End of 32 matrices of size 32x32 = 1064955.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 64x64 = 851509.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 128x128 = 184638.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 256x256 = 653292.000000 usec 
+
+ -------------------------------- 
+
+ SD of CPU runtimes of 32 matrices of size 32x32 = 33.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 64x64 = 44.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 128x128 = 840.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 256x256 = 3479.000000 usec 
+
+******************** END OF THIS SET *********************
+kthread(1) created !!
+kthread(2) created !!
+kthread(3) created !!
+kthread(4) created !!
+kthread(5) created !!
+kthread(6) created !!
+kthread(7) created !!
+
+ HOLA 
+
+*********** MEAN VALUES *************
+
+ Mean of Create-to-End of 32 matrices of size 32x32 = 872949.562500 usec 
+
+ Mean of Create-to-End of 32 matrices of size 64x64 = 702359.000000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 128x128 = 137107.937500 usec 
+
+ Mean of Create-to-End of 32 matrices of size 256x256 = 795365.125000 usec 
+
+ -------------------------------- 
+
+ Mean of CPU runtimes of 32 matrices of size 32x32 = 531.906250 usec 
+
+ Mean of CPU runtimes of 32 matrices of size 64x64 = 3967.843750 usec
+
+ Mean of CPU runtimes of 32 matrices of size 128x128 = 31203.812500 usec
+
+ Mean of CPU runtimes of 32 matrices of size 256x256 = 268218.000000 usec
+
+*********** STANDARD DEVIATION VALUES *************
+
+ SD of Create-to-End of 32 matrices of size 32x32 = 994011.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 64x64 = 796686.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 128x128 = 175265.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 256x256 = 613165.000000 usec 
+
+ -------------------------------- 
+
+ SD of CPU runtimes of 32 matrices of size 32x32 = 42.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 64x64 = 50.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 128x128 = 835.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 256x256 = 4484.000000 usec 
+
+******************** END OF THIS SET *********************
+kthread(1) created !!
+kthread(2) created !!
+kthread(3) created !!
+kthread(4) created !!
+kthread(5) created !!
+kthread(6) created !!
+kthread(7) created !!
+
+ HOLA 
+
+*********** MEAN VALUES *************
+
+ Mean of Create-to-End of 32 matrices of size 32x32 = 890900.375000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 64x64 = 715644.375000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 128x128 = 138427.625000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 256x256 = 810679.500000 usec 
+
+ -------------------------------- 
+
+ Mean of CPU runtimes of 32 matrices of size 32x32 = 529.250000 usec 
+
+ Mean of CPU runtimes of 32 matrices of size 64x64 = 3975.375000 usec
+
+ Mean of CPU runtimes of 32 matrices of size 128x128 = 31194.656250 usec
+
+ Mean of CPU runtimes of 32 matrices of size 256x256 = 274600.187500 usec
+
+*********** STANDARD DEVIATION VALUES *************
+
+ SD of Create-to-End of 32 matrices of size 32x32 = 1014512.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 64x64 = 812316.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 128x128 = 178033.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 256x256 = 624567.000000 usec 
+
+ -------------------------------- 
+
+ SD of CPU runtimes of 32 matrices of size 32x32 = 40.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 64x64 = 50.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 128x128 = 837.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 256x256 = 4573.000000 usec 
+
+******************** END OF THIS SET *********************
+kthread(1) created !!
+kthread(2) created !!
+kthread(3) created !!
+kthread(4) created !!
+kthread(5) created !!
+kthread(6) created !!
+kthread(7) created !!
+
+ HOLA 
+
+*********** MEAN VALUES *************
+
+ Mean of Create-to-End of 32 matrices of size 32x32 = 885528.000000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 64x64 = 711449.625000 usec 
+
+ Mean of Create-to-End of 32 matrices of size 128x128 = 137819.031250 usec 
+
+ Mean of Create-to-End of 32 matrices of size 256x256 = 805360.312500 usec 
+
+ -------------------------------- 
+
+ Mean of CPU runtimes of 32 matrices of size 32x32 = 527.125000 usec 
+
+ Mean of CPU runtimes of 32 matrices of size 64x64 = 3968.468750 usec
+
+ Mean of CPU runtimes of 32 matrices of size 128x128 = 31194.031250 usec
+
+ Mean of CPU runtimes of 32 matrices of size 256x256 = 272799.656250 usec
+
+*********** STANDARD DEVIATION VALUES *************
+
+ SD of Create-to-End of 32 matrices of size 32x32 = 1008469.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 64x64 = 807429.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 128x128 = 176832.000000 usec 
+
+ SD of Create-to-End of 32 matrices of size 256x256 = 620801.000000 usec 
+
+ -------------------------------- 
+
+ SD of CPU runtimes of 32 matrices of size 32x32 = 35.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 64x64 = 42.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 128x128 = 838.000000 usec 
+
+ SD of CPU runtimes of 32 matrices of size 256x256 = 4581.000000 usec 
+
+******************** END OF THIS SET *********************

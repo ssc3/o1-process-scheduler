@@ -1,0 +1,26 @@
+==================== README ========================
+
+How to build?
+	- Untar the gtthreads_working tarball
+	- make clean; make all
+	- ./matrix
+
+
+How to check results?
+	- Once you do ./matrix, wait for a few seconds until the results show up on the shell
+
+
+How to test sched_yield()?	
+	- Open gt_matrix.c
+	- #define SCHED_YIELD
+	- Compile and run ./matrix
+	- On the terminal, keep an eye out for "yielding" messages which indicate preemption
+
+How to get results of the 10 experimental tests that I did?
+	- It's all there in output.log file inside the tarball.
+
+
+For questions, please contact ssc3@gatech.edu
+
+
+
